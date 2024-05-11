@@ -20,7 +20,7 @@ To run the tests, you need to have `pytest` installed. If it's not installed, yo
 ```bash
 pip install pytest
 
-Then you can run the test using the following command:
+# Then you can run the test using the following command:
  
-```bash
-pytest test_add.py
+# ```bash
+# pytest test_add.py
